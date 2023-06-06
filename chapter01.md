@@ -15,3 +15,9 @@ a^2 + b^2 = c^2
 ```
 
 see [chapter 4](chapter04.md#assignment)
+
+## Another formula
+
+```math
+e = mc^2
+```
